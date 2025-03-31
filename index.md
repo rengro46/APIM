@@ -25,12 +25,12 @@ In order to streamline integrations across tier-2 systems and establish a standa
 
 * Design and deployment of Microsoft Azure APIM as the enterprise API gateway.
 * Integration of key tier-2 systems, including but not limited to:
-** ServiceNow
-** SCCM
-** Active Directory (AD)
-** MDM & Intune
-** SolarWinds
-** Warranty data sources (HP, Dell, Lenovo)
+  * ServiceNow
+  * SCCM
+  * Active Directory (AD)
+  * MDM & Intune
+  * SolarWinds
+  * Warranty data sources (HP, Dell, Lenovo)
 * Development of standardized API specifications and documentation.
 * Implementation of security policies, including authentication, authorization, and encryption.
 * API versioning and lifecycle management framework.
@@ -106,10 +106,10 @@ In order to streamline integrations across tier-2 systems and establish a standa
 
 * Capex Budget
 * Resource Requirements:
-** Cloud Infrastructure (Azure APIM, Logging & Monitoring tools)
-** Development & Testing Resources
-** Security & Compliance Expertise
-** Training & Documentation Support
+  * Cloud Infrastructure (Azure APIM, Logging & Monitoring tools)
+  * Development & Testing Resources
+  * Security & Compliance Expertise
+  * Training & Documentation Support
 
 ---
 
